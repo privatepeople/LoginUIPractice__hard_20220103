@@ -99,5 +99,14 @@
 
     </LinearLayout>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="#303030"
+        android:text="로그인" />
+
+
+
 
 </LinearLayout>
