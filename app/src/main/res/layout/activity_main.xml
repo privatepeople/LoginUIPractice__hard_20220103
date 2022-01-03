@@ -33,6 +33,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:gravity="center_vertical"
             android:orientation="horizontal">
 
             <ImageView
@@ -45,23 +46,12 @@
                 android:layout_height="wrap_content"
                 android:textColorHint="#DFDFDF"
                 android:textColor="#FFFFFF"
+                android:background="@null"
+                android:layout_marginStart="20dp"
                 android:hint="이메일"/>
-
-
 
         </LinearLayout>
 
-
-
-
     </LinearLayout>
-
-
-
-
-
-
-
-
 
 </LinearLayout>
